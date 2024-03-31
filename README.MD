@@ -19,6 +19,6 @@ Make sure you have Java Development Kit (JDK) installed on your system.
 ### 5. Run the JsonVerifier Class:
 Execute the _JsonVerifier_ class with the path to the JSON file you want to verify:
 
- -java JsonVerifier.JsonVerifier <path-to-json-file>
+ -java JsonVerifier.JsonVerifier "path-to-json-file"
 
-Replace <path-to-json-file> with the path to your JSON file.
+Replace "path-to-json-file" with the path to your JSON file.
